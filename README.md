@@ -6,6 +6,7 @@ learning xml
 - Spreadsheets
 - SQL Database
 - R Programming
+- OOP
 - Python 
 - Dashborad
 - Stat&ML
